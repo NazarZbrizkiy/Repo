@@ -1,1 +1,1 @@
-x = 10
+print('viva Mech-Mat')
